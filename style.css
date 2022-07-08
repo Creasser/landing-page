@@ -79,14 +79,23 @@ button {
     font-size: 36px;
     color: #1f2937;
     font-weight: bolder;
+    padding-bottom: 20px;
 }
 .info-cont {
     display: flex;
 }
 .info {
-
+    text-align: center;
+    padding-top: 20px;
 }
 .img {
     display: flex;
     height: 200px;
+}
+.img-cont-two {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1;
+    padding-left: 10px;
 }
