@@ -122,10 +122,37 @@ button {
     font-size: 36px;
     text-align: center;
     font-style: italic;
-    color: #1f2937;
 }
 .author {
     font-size: 24px;
     text-align: right;
     font-weight: bold;
+}
+
+/*Section 4*/
+
+.section-four {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882f6;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px 200px 50px 200px;
+    border-radius: 25px;
+    color: white;
+    align-items: center;
+}
+.cta {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cta-sub {
+    font-size: 14px;
+    font-weight: 300;
+    padding-right: 50px;
+}
+.btn-two {
+    border: 2px solid white;
 }
