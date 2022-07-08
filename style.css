@@ -86,3 +86,7 @@ button {
 .info {
 
 }
+.img {
+    display: flex;
+    height: 200px;
+}
