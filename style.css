@@ -159,3 +159,11 @@ button {
 .btn-two {
     border: 2px solid white;
 }
+footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+    width: 100%;
+}
