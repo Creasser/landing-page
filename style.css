@@ -6,7 +6,10 @@ body {
     background-color: white;
     align-items: center;
 }
-
+a {
+    text-decoration: none;
+    color: white;
+}
 /* Style for section 1 */
 
 .background {
